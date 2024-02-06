@@ -1,0 +1,3 @@
+Dudas 
+
+Tipos de datos genericos--obtner el tipo de dato
